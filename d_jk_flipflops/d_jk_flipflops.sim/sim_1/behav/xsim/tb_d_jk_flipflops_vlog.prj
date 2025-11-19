@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../d_jk_flipflops.srcs/sources_1/new/d_jk_flipflops.v" \
+"../../../../d_jk_flipflops.srcs/sim_1/new/tb_d_jk_flipflops.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+
+--- HALF ADDER ---
+
+--- FULL ADDER ---
+
+--- HALF SUBTRACTOR ---
+
+--- FULL SUBTRACTOR ---
+$stop called at time : 160 ns : File "C:/Users/anand/Documents/PROG_FILES/MY_VERILOG_CODES/adder_subtractor/adder_subtractor.srcs/sim_1/new/tb_adder_subtractor.v" Line 74

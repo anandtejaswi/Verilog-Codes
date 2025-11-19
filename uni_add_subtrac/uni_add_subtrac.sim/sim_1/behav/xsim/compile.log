@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/anand/Documents/PROG_FILES/MY_VERILOG_CODES/uni_add_subtrac/uni_add_subtrac.srcs/sources_1/new/universal_add_sub.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module universal_add_sub
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/anand/Documents/PROG_FILES/MY_VERILOG_CODES/uni_add_subtrac/uni_add_subtrac.srcs/sim_1/new/tb_universal_add_sub.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_universal_add_sub
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/anand/Documents/PROG_FILES/MY_VERILOG_CODES/uni_add_subtrac/uni_add_subtrac.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

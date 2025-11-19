@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+
+--- TESTING D FLIP-FLOP ---
+
+--- TESTING JK FLIP-FLOP ---
+$stop called at time : 100 ns : File "C:/Users/anand/Documents/PROG_FILES/MY_VERILOG_CODES/d_jk_flipflops/d_jk_flipflops.srcs/sim_1/new/tb_d_jk_flipflops.v" Line 62

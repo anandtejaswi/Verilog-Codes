@@ -1,0 +1,35 @@
+Vivado Simulator v2025.1.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot basic_gates_tb_behav xil_defaultlib.basic_gates_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 6. Module NOT_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 14. Module AND_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 22. Module OR_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 30. Module NAND_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 38. Module NOR_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 46. Module XOR_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 54. Module XNOR_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 6. Module NOT_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 14. Module AND_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 22. Module OR_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 30. Module NAND_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 38. Module NOR_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 46. Module XOR_gate doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v" Line 54. Module XNOR_gate doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.NOT_gate
+Compiling module xil_defaultlib.AND_gate
+Compiling module xil_defaultlib.OR_gate
+Compiling module xil_defaultlib.NAND_gate
+Compiling module xil_defaultlib.NOR_gate
+Compiling module xil_defaultlib.XOR_gate
+Compiling module xil_defaultlib.XNOR_gate
+Compiling module xil_defaultlib.basic_gates_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot basic_gates_tb_behav

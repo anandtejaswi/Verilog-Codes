@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+---- Testing 2x1 MUX ----
+---- Testing 4x1 MUX ----
+$stop called at time : 60 ns : File "C:/Users/anand/Documents/PROG_FILES/MUX/MUX.srcs/sim_1/new/tb_muxes.v" Line 47

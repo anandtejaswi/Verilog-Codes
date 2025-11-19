@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Time A B | NOT AND OR NAND NOR XOR XNOR
+   0  0 0 |  1   0   0    1    1    0     1
+  10  0 1 |  1   0   1    1    0    1     0
+  20  1 0 |  0   0   1    1    0    1     0
+  30  1 1 |  0   1   1    0    0    0     1
+$stop called at time : 40 ns : File "C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sim_1/new/basic_gates_tb.v" Line 28

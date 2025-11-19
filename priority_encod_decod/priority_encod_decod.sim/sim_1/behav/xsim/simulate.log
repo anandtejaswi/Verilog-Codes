@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+
+--- Testing Priority Encoder ---
+
+--- Testing Decoder ---
+$stop called at time : 100 ns : File "C:/Users/anand/Documents/PROG_FILES/MY_VERILOG_CODES/priority_encod_decod/priority_encod_decod.srcs/sim_1/new/tb_priority_encod_decod.v" Line 48

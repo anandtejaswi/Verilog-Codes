@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+
+--- TESTING SR LATCH ---
+
+--- TESTING CLOCKED SR FLIP-FLOP ---
+$stop called at time : 120 ns : File "C:/Users/anand/Documents/PROG_FILES/MY_VERILOG_CODES/sr_latch_ff/sr_latch_ff.srcs/sim_1/new/tb_sr_latch_and_flipflop.v" Line 46

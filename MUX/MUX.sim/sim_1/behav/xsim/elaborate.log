@@ -1,0 +1,20 @@
+Vivado Simulator v2025.1.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_muxes_behav xil_defaultlib.tb_muxes xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/MUX/MUX.srcs/sources_1/new/mux_modules.v" Line 4. Module mux2x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/MUX/MUX.srcs/sources_1/new/mux_modules.v" Line 16. Module mux4x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/MUX/MUX.srcs/sources_1/new/mux_modules.v" Line 4. Module mux2x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/Users/anand/Documents/PROG_FILES/MUX/MUX.srcs/sources_1/new/mux_modules.v" Line 16. Module mux4x1 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux2x1
+Compiling module xil_defaultlib.mux4x1
+Compiling module xil_defaultlib.tb_muxes
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_muxes_behav

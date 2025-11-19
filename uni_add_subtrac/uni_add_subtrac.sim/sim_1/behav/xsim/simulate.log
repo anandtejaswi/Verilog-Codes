@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+
+---- UNIVERSAL ADDER-SUBTRACTOR TEST ----
+$stop called at time : 60 ns : File "C:/Users/anand/Documents/PROG_FILES/MY_VERILOG_CODES/uni_add_subtrac/uni_add_subtrac.srcs/sim_1/new/tb_universal_add_sub.v" Line 34

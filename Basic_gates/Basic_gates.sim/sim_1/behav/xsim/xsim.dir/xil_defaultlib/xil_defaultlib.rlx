@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sim_1/new/basic_gates_tb.v,1763561771,verilog,,,,basic_gates_tb,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sources_1/new/basic_gates.v,1763561960,verilog,,C:/Users/anand/Documents/PROG_FILES/Basic_gates/Basic_gates.srcs/sim_1/new/basic_gates_tb.v,,AND_gate;NAND_gate;NOR_gate;NOT_gate;OR_gate;XNOR_gate;XOR_gate,,,../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
