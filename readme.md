@@ -10,7 +10,7 @@ This document contains summaries of all Verilog practicals
 Basic logic gates such as AND, OR, NOT, NAND, NOR, XOR, and XNOR perform fundamental Boolean operations. These are the foundation for all combinational and sequential digital circuits.
 
 ### Vivado Dashboard
-![Basic Gates Dashboard](imageassets/basic_gate/2.png)
+![Basic Gates Dashboard](ImageAssets/basic_gate/2.png)
 
 ### Waveform
 ![Basic Gates Waveform](ImageAssets/basic_gate/1.png)
