@@ -29,7 +29,7 @@ MUXes are widely used for data routing and control operations.
 
 
 ### Waveform
-![Mux Waveform](imageassets/mux/Screenshot%202025-11-19%20200647.png)
+![Mux Waveform](ImageAssets/mux/Screenshot%202025-11-19%20200647.png)
 
 ---
 
@@ -41,10 +41,10 @@ A **decoder** converts a binary input into a one-hot output.
 These components are essential for communication systems, interrupt handling, and address decoding.
 
 ### Vivado Dashboard
-![Priority Encoder Decoder Dashboard](imageassets/priority_encod_decod/Screenshot%202025-11-19%20201803.png)
+![Priority Encoder Decoder Dashboard](ImageAssets/priority_encod_decod/Screenshot%202025-11-19%20201803.png)
 
 ### Waveform
-![Priority Encoder Decoder Waveform](imageassets/priority_encod_decod/Screenshot%202025-11-19%20201746.png)
+![Priority Encoder Decoder Waveform](ImageAssets/priority_encod_decod/Screenshot%202025-11-19%20201746.png)
 
 ---
 
@@ -57,10 +57,10 @@ Arithmetic operations begin with half and full adders/subtractors:
 These circuits are core components of ALUs and digital processing systems.
 
 ### Vivado Dashboard
-![Adder Subtractor Dashboard](imageassets/adder_subtractor/1.png)
+![Adder Subtractor Dashboard](ImageAssets/adder_subtractor/1.png)
 
 ### Waveform
-![Adder Subtractor Waveform](imageassets/adder_subtractor/2.png)
+![Adder Subtractor Waveform](ImageAssets/adder_subtractor/2.png)
 
 ---
 
@@ -70,10 +70,10 @@ These circuits are core components of ALUs and digital processing systems.
 A universal adder–subtractor performs both addition and subtraction using a mode control input. Subtraction is implemented using the 2’s complement method, enabling efficient arithmetic inside processors and ALUs.
 
 ### Vivado Dashboard
-![Universal Adder Subtractor Dashboard](imageassets/univ_add_sub/Screenshot%202025-11-19%20203044.png)
+![Universal Adder Subtractor Dashboard](ImageAssets/univ_add_sub/Screenshot%202025-11-19%20203044.png)
 
 ### Waveform
-![Universal Adder Subtractor Waveform](imageassets/univ_add_sub/Screenshot%202025-11-19%20203108.png)
+![Universal Adder Subtractor Waveform](ImageAssets/univ_add_sub/Screenshot%202025-11-19%20203108.png)
 
 ---
 
@@ -85,10 +85,10 @@ The **SR flip-flop** is an edge-triggered version, storing data only on a clock 
 Both are fundamental sequential elements.
 
 ### Vivado Dashboard
-![SR Latch Flip Flop Dashboard](imageassets/sr_latch_ff/Screenshot%202025-11-19%20203712.png)
+![SR Latch Flip Flop Dashboard](ImageAssets/sr_latch_ff/Screenshot%202025-11-19%20203712.png)
 
 ### Waveform
-![SR Latch Flip Flop Waveform](imageassets/sr_latch_ff/Screenshot%202025-11-19%20203737.png)
+![SR Latch Flip Flop Waveform](ImageAssets/sr_latch_ff/Screenshot%202025-11-19%20203737.png)
 
 ---
 
@@ -100,10 +100,10 @@ A **JK flip-flop** extends functionality with set, reset, toggle, and hold state
 These are widely used in counters, registers, and sequential logic design.
 
 ### Vivado Dashboard
-![D JK Flip Flop Dashboard](imageassets/d_jk_ff/Screenshot%202025-11-19%20204222.png)
+![D JK Flip Flop Dashboard](ImageAssets/d_jk_ff/Screenshot%202025-11-19%20204222.png)
 
 ### Waveform
-![D JK Flip Flop Waveform](imageassets/d_jk_ff/Screenshot%202025-11-19%20204247.png)
+![D JK Flip Flop Waveform](ImageAssets/d_jk_ff/Screenshot%202025-11-19%20204247.png)
 
 ---
 
@@ -114,7 +114,7 @@ Counters increment or decrement their state on each clock pulse.
 They can be synchronous or asynchronous and are used in timers, event counters, digital clocks, and state machines.
 
 ### Vivado Dashboard
-![Counter Dashboard](imageassets/counter/counter.png)
+![Counter Dashboard](ImageAssets/counter/counter.png)
 
 
 ---
