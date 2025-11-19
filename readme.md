@@ -1,7 +1,6 @@
 # Verilog Practical Report – README
 
-This document contains summaries of all Verilog laboratory practicals along with placeholders for Vivado screenshots.  
-Replace each image path under `imageassets/` with your actual screenshot files.
+This document contains summaries of all Verilog practicals  
 
 ---
 
@@ -11,10 +10,10 @@ Replace each image path under `imageassets/` with your actual screenshot files.
 Basic logic gates such as AND, OR, NOT, NAND, NOR, XOR, and XNOR perform fundamental Boolean operations. These are the foundation for all combinational and sequential digital circuits.
 
 ### Vivado Dashboard
-![Basic Gates Dashboard](imageassets/basic_gates/2)
+![Basic Gates Dashboard](imageassets/basic_gate/2.png)
 
 ### Waveform
-![Basic Gates Waveform](imageassets/basic_gates/1)
+![Basic Gates Waveform](ImageAssets/basic_gate/1.png)
 
 ---
 
